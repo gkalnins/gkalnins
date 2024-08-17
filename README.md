@@ -1,12 +1,17 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**gkalnins/gkalnins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Grace and I'm a student, from central Florida</p>
 
-- 🔭 I’m currently working on my associates 
-- 🌱 I’m currently learning C++
-- 💬 Ask me about my cats!
-- 😄 Pronouns: she/her
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2023<br>🌱 I’m currently learning C++<br>🔭 I’m currently working on my associates<br>💬 Ask me about my cats!<br>🎀 Pronouns: she/her</p>
+
+
+
+###
